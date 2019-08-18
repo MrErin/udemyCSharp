@@ -51,6 +51,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# data
+sqlite3/
+
 #other
 .DS_Store
 bower_components
